@@ -1,0 +1,95 @@
+---
+title: "Herbarium App Set up"
+author: "Kristen Peach"
+date: "2/20/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Load Packages
+
+```{r}
+
+library(tidyverse)
+library(sf)
+library(tmap)
+library(leaflet)
+
+```
+
+```{r}
+
+#Load Subset of data
+library(readr)
+CCH_subset <- read_csv("~/Desktop/ESM 244 W18/Final Project App ESM 244 Herbarium App/Herbarium Data App ESM 244/CCH_subset.csv")
+
+
+```
+
+
+```{r}
+
+library(leaflet)
+
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=174.768, lat=-36.852,
+    popup="The birthplace of R")
+m  # Print the map
+
+
+
+```
+
+
+```{r}
+
+
+leaflet() %>% addCircles(data = CCH_subset)
+leaflet() %>% addCircles(data = CCH_subset, lat = ~ Latitude, lng = ~ Longitude) %>% 
+addTiles()
+   
+
+
+
+
+
+```
+
+
+
+
+```{r}
+
+Aster_map <- filter(CCH_subset, family == "Asteraceae") %>% 
+  select(family, Latitude, Longitude)
+
+
+
+```
+
+```{r}
+
+## create a list of countries
+Aster_fam <- CCH_subset %>% ## use instead of gapminder
+  filter(family == "Asteraceae")
+
+family_list <- unique(CCH_subset$family) 
+family_list
+
+
+```
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,209 @@
+id,scientificName,year,month,day,county,Latitude,Longitude,genus,species,family
+UC1018206,Antirrhinum multiflorum,1952,5,5,Los Angeles,34.130642,-118.48183,Antirrhinum,Sairocarpus multiflorus,Plantaginaceae
+UC1564721,Penstemon thurberi,1984,9,14,San Diego,33.050835,-116.4175,Penstemon,Penstemon thurberi,Plantaginaceae
+UCR196851,Linum lewisii var. lewisii,2008,6,17,Amador,38.55861,-120.27694,Linum,Linum lewisii,Linaceae
+UC112980,Clarkia rubicunda,1908,7,1,San Francisco,37.7198,-122.49132,Clarkia,Clarkia rubicunda,Onagraceae
+UCR196850,Mimulus tilingii,2008,6,17,Amador,38.55861,-120.27694,Mimulus,Mimulus tilingii,Phrymaceae
+JEPS86538,Pectocarya setosa,1988,4,7,San Bernardino,35.1855,-115.5098,Pectocarya,Pectocarya setosa,Boraginaceae
+UC120393,Arenaria macradenia var. macradenia,1902,5,27,San Bernardino,34.9636,-115.5103,Arenaria,Arenaria macradenia,Caryophyllaceae
+UC1928639,Senecio linearifolius var. linearifolius,2003,7,7,Orange,33.633333,-117.825,Senecio,Senecio linariifolius,Asteraceae
+UCR196853,Penstemon laetus subsp. laetus,2008,6,5,El Dorado,38.78556,-120.6225,Penstemon,Penstemon laetus,Plantaginaceae
+JEPS86539,Senna armata,1988,5,26,San Bernardino,35.1855,-115.5098,Senna,Senna armata,Fabaceae
+UC112982,Clarkia biloba,1908,6,1,El Dorado,38.71266,-121.03336,Clarkia,Clarkia biloba,Onagraceae
+UC1442839,Phacelia cookei,1968,7,1,Siskiyou,41.53378,-122.24743,Phacelia,Phacelia cookei,Hydrophyllaceae
+UC1018202,Keckiella antirrhinoides,1952,4,5,Orange,33.87,-117.73,Keckiella,Keckiella antirrhinoides,Plantaginaceae
+UC112985,Clarkia unguiculata,1908,5,30,El Dorado,38.70681,-121.07556,Clarkia,Clarkia unguiculata,Onagraceae
+UC473547,Grindelia hirsutula,1930,6,8,Sonoma,38.35075,-122.95544,Grindelia,Grindelia hirsutula,Asteraceae
+UC551759,Eriophorum crinigerum,1935,7,25,Mariposa,37.7394,-119.2706,Eriophorum,Eriophorum crinigerum,Cyperaceae
+UCR184045,Plagiobothrys arizonicus,2007,4,19,Los Angeles,34.80417,-118.74917,Plagiobothrys,Plagiobothrys arizonicus,Boraginaceae
+UCR196855,Triteleia ixioides subsp. anilina,2008,6,17,Amador,38.55861,-120.27694,Triteleia,Triteleia ixioides,Asparagaceae
+UC1018203,Mimulus aurantiacus var. puniceus,1952,3,16,Riverside,33.6521,-117.3796,Mimulus,Mimulus aurantiacus,Phrymaceae
+UC473546,Salix breweri,1931,4,4,Lake,38.76667,-122.60361,Salix,Salix breweri,Salicaceae
+UC551758,Carex spectabilis,1935,7,25,Mariposa,37.7394,-119.2706,Carex,Carex spectabilis,Cyperaceae
+UCR196854,Calochortus albus,2008,6,5,El Dorado,38.78556,-120.6225,Calochortus,Calochortus albus,Liliaceae
+UC112987,Clarkia amoena subsp. amoena,1908,6,28,Sonoma,38.36417,-122.52306,Clarkia,Clarkia amoena,Onagraceae
+UC1564727,Polygonum aviculare subsp. aviculare,1989,7,21,Butte,40.1066,-121.4898,Polygonum,Polygonum aviculare,Polygonaceae
+UCR184047,Rigiopappus leptocladus,2007,4,19,Los Angeles,34.80417,-118.74917,Rigiopappus,Rigiopappus leptocladus,Asteraceae
+UCR196857,Grindelia squarrosa var. serrulata,2008,7,22,Alpine,38.80778,-119.77778,Grindelia,Grindelia squarrosa,Asteraceae
+UC1018201,Ribes malvaceum,1952,3,15,Los Angeles,34.289,-117.6464,Ribes,Ribes malvaceum,Grossulariaceae
+UC112986,Clarkia amoena subsp. amoena,1908,6,28,Sonoma,38.36417,-122.52306,Clarkia,Clarkia amoena,Onagraceae
+UCR184046,Hordeum marinum,2007,4,19,Los Angeles,34.80417,-118.74917,Hordeum,Hordeum marinum,Poaceae
+UCR196856,Equisetum laevigatum,2008,7,22,Alpine,38.78417,-119.81167,Equisetum,Equisetum laevigatum,Equisetaceae
+JEPS86532,Phacelia minor,1988,4,1,Riverside,33.6519,-117.3898,Phacelia,Phacelia minor,Hydrophyllaceae
+UC118297,Ranunculus aquatilis var. hispidulus,1893,7,7,Mendocino,39.404358,-123.35064,Ranunculus,Ranunculus aquatilis,Ranunculaceae
+UC1564729,Eleocharis bella,1989,7,21,Butte,40.1066,-121.4898,Eleocharis,Eleocharis bella,Cyperaceae
+UC450953,Gilia tricolor subsp. diffusa,1931,4,3,Kern,35.13222,-118.44806,Gilia,Gilia tricolor,Polemoniaceae
+UCR184049,Linanthus parviflorus,2007,4,19,Los Angeles,34.80417,-118.74917,Linanthus,Linanthus parviflorus,Polemoniaceae
+UCR196859,Madia gracilis,2008,6,3,El Dorado,38.7625,-120.56,Madia,Madia gracilis,Asteraceae
+JEPS86533,Emmenanthe penduliflora,1988,4,1,Riverside,33.6519,-117.3898,Emmenanthe,Emmenanthe penduliflora,Hydrophyllaceae
+UC1564728,Juncus bufonius var. occidentalis,1989,7,21,Butte,40.1066,-121.4898,Juncus,Juncus amuricus,Juncaceae
+UC450952,Dicentra chrysantha,1931,4,22,Los Angeles,34.42694,-118.57444,Dicentra,Ehrendorferia chrysantha,Papaveraceae
+UC551754,Carex congdonii,1935,7,25,Mariposa,37.7394,-119.2706,Carex,Carex congdonii,Cyperaceae
+UCR184048,Linanthus liniflorus,2007,4,19,Los Angeles,34.80417,-118.74917,Linanthus,Linanthus liniflorus,Polemoniaceae
+UCR196858,Dichelostemma multiflorum,2008,6,5,El Dorado,38.78556,-120.6225,Dichelostemma,Dichelostemma multiflorum,Asparagaceae
+JEPS86530,Mimulus aurantiacus var. puniceus,1988,4,1,Riverside,33.6519,-117.3898,Mimulus,Mimulus aurantiacus,Phrymaceae
+UC186894,Eschscholzia caespitosa,1886,5,3,Solano,38.35667,-121.9867,Eschscholzia,Eschscholzia caespitosa,Papaveraceae
+UC450951,Rhamnus crocea,1931,3,10,Los Angeles,34.234272,-118.3133,Rhamnus,Rhamnus crocea,Rhamnaceae
+UC473549,Grindelia hirsutula,1930,7,13,Sonoma,38.684742,-123.4254,Grindelia,Grindelia hirsutula,Asteraceae
+JEPS86531,Scrophularia californica subsp. floribunda,1988,4,1,Riverside,33.6519,-117.3898,Scrophularia,Scrophularia californica,Scrophulariaceae
+UC118294,Ranunculus aquatilis var. hispidulus,1893,6,5,Mendocino,39.321255,-123.10287,Ranunculus,Ranunculus aquatilis,Ranunculaceae
+UC186895,Eschscholzia caespitosa,1888,8,1,Nevada,39.3445,-120.1725,Eschscholzia,Eschscholzia caespitosa,Papaveraceae
+UC450950,Cryptantha intermedia,1931,3,1,Los Angeles,34.234272,-118.3133,Cryptantha,Cryptantha intermedia,Boraginaceae
+UC473548,Grindelia hirsutula,1930,9,14,Mendocino,39.49924,-123.773796,Grindelia,Grindelia hirsutula,Asteraceae
+JEPS86536,Eriophyllum wallacei,1988,4,7,San Bernardino,35.1758,-115.5073,Eriophyllum,Eriophyllum wallacei,Asteraceae
+UC551751,Bolandra californica,1935,7,29,Mariposa,37.6442,-119.3264,Bolandra,Bolandra californica,Saxifragaceae
+JEPS86537,Camissonia campestris subsp. campestris,1988,4,7,San Bernardino,35.1855,-115.5098,Camissonia,Camissonia campestris,Onagraceae
+UC450956,Pseudognaphalium californicum,1931,4,17,Los Angeles,34.234272,-118.3133,Pseudognaphalium,Pseudognaphalium californicum,Asteraceae
+UC551750,Ribes lasianthum,1935,7,22,Mariposa,37.8507,-119.289,Ribes,Ribes lasianthum,Grossulariaceae
+JEPS86534,Cryptantha pterocarya,1988,4,7,San Bernardino,35.1855,-115.5098,Cryptantha,Cryptantha pterocarya,Boraginaceae
+UC186890,Eschscholzia rhombipetala,1888,3,25,Contra Costa,37.8673,-121.6379,Eschscholzia,Eschscholzia rhombipetala,Papaveraceae
+UC450955,Pseudognaphalium biolettii,1931,4,1,Los Angeles,34.234272,-118.3133,Pseudognaphalium,Pseudognaphalium biolettii,Asteraceae
+UC551753,Ribes montigenum,1935,7,25,Mariposa,37.7394,-119.2706,Ribes,Ribes montigenum,Grossulariaceae
+UC450954,Chaenactis glabriuscula var. glabriuscula,1931,3,1,Orange,33.54,-117.77,Chaenactis,Chaenactis glabriuscula,Asteraceae
+UC551752,Saxifraga rivularis,1935,8,1,Madera,37.725174,-119.25676,Saxifraga,Saxifraga rivularis,Saxifragaceae
+JEPS16887,Venegasia carpesioides,1956,6,17,Los Angeles,34.080692,-118.47482,Venegasia,Venegasia carpesioides,Asteraceae
+JEPS54517,Astragalus asymmetricus,1928,8,18,Fresno,36.75361,-120.38056,Astragalus,Astragalus asymmetricus,Fabaceae
+UC1212062,Cynoglossum grande,1950,4,1,Santa Clara,37.3409,-121.6672,Cynoglossum,Cynoglossum grande,Boraginaceae
+UC691242,Vulpia microstachys var. pauciflora,1935,4,17,Contra Costa,37.881344,-121.96714,Vulpia,Vulpia microstachys,Poaceae
+UC764722,Trifolium willdenovii,1937,5,6,San Joaquin,37.882504,-121.16318,Trifolium,Trifolium willdenovii,Fabaceae
+UCR64628,Cryptantha clevelandii var. florosa,1930,10,5,Santa Barbara,34.778,-120.036,Cryptantha,Cryptantha clevelandii,Boraginaceae
+JEPS16886,Encelia californica,1956,6,17,Los Angeles,34.080692,-118.47482,Encelia,Encelia californica,Asteraceae
+JEPS54516,Astragalus asymmetricus,1928,5,14,Merced,37.055954,-120.54848,Astragalus,Astragalus asymmetricus,Fabaceae
+UC1212063,Cryptantha incana,1950,7,4,Tulare,36.671436,-118.57269,Cryptantha,Cryptantha incana,Boraginaceae
+UC691243,Vulpia microstachys var. pauciflora,1931,5,7,Contra Costa,37.878914,-121.90074,Vulpia,Vulpia microstachys,Poaceae
+UC764723,Trifolium gracilentum,1937,4,11,Kings,35.92227,-120.03044,Trifolium,Trifolium gracilentum,Fabaceae
+UCR64629,Cryptantha intermedia,1935,4,18,Riverside,33.79833,-117.37639,Cryptantha,Cryptantha intermedia,Boraginaceae
+JEPS16885,Bidens pilosa,1956,6,17,Los Angeles,34.05611,-118.42972,Bidens,Bidens pilosa,Asteraceae
+JEPS54515,Astragalus asymmetricus,1931,6,4,San Luis Obispo,35.724,-120.296,Astragalus,Astragalus asymmetricus,Fabaceae
+UC1212060,Cryptantha simulans,1950,7,5,Fresno,36.79139,-118.595,Cryptantha,Cryptantha simulans,Boraginaceae
+UC691240,Vulpia microstachys var. pauciflora,1933,5,3,Contra Costa,37.87656,-121.90685,Vulpia,Vulpia microstachys,Poaceae
+UC764720,Trifolium depauperatum var. amplectens,1937,4,10,Madera,37.084984,-120.20766,Trifolium,Trifolium depauperatum,Fabaceae
+JEPS16884,Malacothrix saxatilis var. tenuifolia,1956,6,17,Los Angeles,34.091393,-118.42624,Malacothrix,Malacothrix saxatilis,Asteraceae
+UC1212061,Cryptantha muricata,1950,4,26,Colusa,39.159813,-122.46996,Cryptantha,Cryptantha muricata,Boraginaceae
+UC764721,Trifolium willdenovii,1937,5,6,Stanislaus,37.54365,-120.705605,Trifolium,Trifolium willdenovii,Fabaceae
+JEPS16883,Galinsoga parviflora var. parviflora,1956,6,14,Los Angeles,34.05611,-118.42972,Galinsoga,Galinsoga parviflora,Asteraceae
+JEPS54513,Astragalus acutirostris,1914,5,9,San Bernardino,34.7269,-116.9916,Astragalus,Astragalus acutirostris,Fabaceae
+UC1212066,Myrica hartwegii,1959,11,2,El Dorado,38.57559,-120.844,Myrica,Myrica hartwegii,Myricaceae
+UC691246,Melica torreyana,1935,5,3,Contra Costa,37.859184,-121.88963,Melica,Melica torreyana,Poaceae
+UC764726,Trifolium monanthum var. monanthum,1936,7,14,Tuolumne,38.28083,-119.835,Trifolium,Trifolium monanthum,Fabaceae
+UCR117089,Camissonia bistorta,2001,5,16,Riverside,33.69917,-116.95333,Camissonia,Camissoniopsis bistorta,Onagraceae
+JEPS16882,Madia elegans,1956,7,1,San Diego,32.9846,-116.5821,Madia,Madia elegans,Asteraceae
+JEPS54512,Astragalus acutirostris,1920,4,28,San Diego,33.37008,-116.47042,Astragalus,Astragalus acutirostris,Fabaceae
+UC1212067,Myrica hartwegii,1959,11,2,El Dorado,38.57559,-120.844,Myrica,Myrica hartwegii,Myricaceae
+UC1360447,Erysimum capitatum subsp. perenne,1966,6,28,Tulare,36.4128,-118.556465,Erysimum,Erysimum capitatum,Brassicaceae
+UC691247,Vulpia bromoides,1935,4,19,Contra Costa,37.872856,-121.95096,Vulpia,Vulpia bromoides,Poaceae
+UCR117088,Eriophyllum multicaule,2001,5,16,Riverside,33.69917,-116.95333,Eriophyllum,Eriophyllum multicaule,Asteraceae
+JEPS16881,Gnaphalium palustre,1956,7,1,San Diego,32.9926,-116.5651,Gnaphalium,Gnaphalium palustre,Asteraceae
+JEPS54511,Astragalus austiniae,1877,8,27,Nevada,39.432945,-120.364,Astragalus,Astragalus austiniae,Fabaceae
+UC1212064,Cryptantha intermedia,1938,5,8,Colusa,39.23282,-122.42173,Cryptantha,Cryptantha intermedia,Boraginaceae
+UC691244,Koeleria macrantha,1935,5,16,Contra Costa,37.912506,-121.904625,Koeleria,Koeleria macrantha,Poaceae
+UC764724,Trifolium longipes var. hansenii,1936,7,14,Tuolumne,38.28083,-119.835,Trifolium,Trifolium longipes,Fabaceae
+JEPS16880,Gutierrezia sarothrae,1956,7,1,San Diego,32.7367,-116.8929,Gutierrezia,Gutierrezia sarothrae,Asteraceae
+JEPS54510,Castilleja praeterita,1966,8,10,Tulare,35.901512,-118.37607,Castilleja,Castilleja praeterita,Orobanchaceae
+UC1212065,Cryptantha intermedia,1949,3,12,Riverside,33.9304,-116.6904,Cryptantha,Cryptantha intermedia,Boraginaceae
+UC195738,Raillardella argentea,1887,7,17,Nevada,39.365665,-120.3482,Raillardella,Raillardella argentea,Asteraceae
+UC691245,Vulpia bromoides,1933,5,3,Contra Costa,37.87656,-121.90685,Vulpia,Vulpia bromoides,Poaceae
+UC764725,Trifolium cyathiferum,1936,7,14,Tuolumne,38.28083,-119.835,Trifolium,Trifolium cyathiferum,Fabaceae
+UCR64620,Hackelia sharsmithii,1948,7,19,Inyo,36.7625,-118.36194,Hackelia,Hackelia sharsmithii,Boraginaceae
+UCR117084,Lotus heermannii,2001,5,16,Riverside,33.69917,-116.95333,Lotus,Syrmatium tomentosum,Fabaceae
+UCR64621,Hackelia californica,1930,7,20,Butte,40.11306,-121.46611,Hackelia,Hackelia californica,Boraginaceae
+UC1360448,Draba sierrae,1966,8,6,Inyo,37.3216,-118.668,Draba,Draba sierrae,Brassicaceae
+UC195735,Microseris sylvatica,1896,7,25,Amador,38.3765,-120.8483,Microseris,Microseris sylvatica,Asteraceae
+UC764728,Trifolium willdenovii,1935,3,18,San Joaquin,37.785866,-121.3057,Trifolium,Trifolium willdenovii,Fabaceae
+UCR117087,Hemizonia kelloggii,2001,5,16,Riverside,33.69917,-116.95333,Hemizonia,Hemizonia kelloggii,Asteraceae
+UCR64622,Myrica californica,1933,10,22,Marin,38.07097,-122.85875,Myrica,Myrica californica,Myricaceae
+UC1360449,Draba pterosperma,1966,9,4,Siskiyou,41.5737,-123.2102,Draba,Draba pterosperma,Brassicaceae
+UC691249,Barbarea orthoceras,1933,4,9,Contra Costa,37.91,-121.9231,Barbarea,Barbarea orthoceras,Brassicaceae
+UCR117086,Mimulus brevipes,2001,5,16,Riverside,33.69917,-116.95333,Mimulus,Mimulus brevipes,Phrymaceae
+UCR64623,Linanthus bicolor,1973,5,6,Trinity,40.65083,-122.94278,Linanthus,Linanthus bicolor,Polemoniaceae
+UCR64624,Polemonium eximium,1904,8,15,Inyo,36.57219,-118.29281,Polemonium,Polemonium eximium,Polemoniaceae
+UCR64626,Allium munzii,1930,4,15,Riverside,33.8,-117.36667,Allium,Allium munzii,Amaryllidaceae
+JEPS16888,Lonicera hispidula var. vacillans,1956,6,20,Santa Barbara,34.5346,-120.0653,Lonicera,Lonicera hispidula,Caprifoliaceae
+JEPS54518,Astragalus asymmetricus,1892,8,15,Solano,38.2888,-122.0006,Astragalus,Astragalus asymmetricus,Fabaceae
+UC629699,Glinus lotoides,1936,9,12,Santa Clara,37.421104,-121.69879,Glinus,Glinus lotoides,Molluginaceae
+UCR64627,Cryptantha clevelandii var. florosa,1930,10,5,Santa Barbara,34.778,-120.036,Cryptantha,Cryptantha clevelandii,Boraginaceae
+UCR34682,Agrostis scabra var. geminata,1981,8,6,Modoc,41.38222,-120.21889,Agrostis,Agrostis hyemalis,Poaceae
+UCR34681,Trisetum spicatum,1981,8,6,Modoc,41.38222,-120.21889,Trisetum,Trisetum spicatum,Poaceae
+UCR35000,Apocynum cannabinum,1968,6,20,Riverside,33.79861,-116.74861,Apocynum,Apocynum cannabinum,Apocynaceae
+UCR34680,Stipa nevadensis,1981,8,6,Modoc,41.38222,-120.21889,Stipa,Stipa nevadensis,Poaceae
+UCR35001,Apocynum cannabinum,1968,6,25,Riverside,33.66667,-116.66667,Apocynum,Apocynum cannabinum,Apocynaceae
+UCR34687,Botrychium simplex,1981,8,6,Modoc,41.38222,-120.21889,Botrychium,Botrychium simplex,Ophioglossaceae
+UCR35006,Psorothamnus schottii,1977,4,12,Riverside,33.96667,-116.5,Psorothamnus,Psorothamnus schottii,Fabaceae
+UCR34686,Epilobium anagallidifolium,1981,8,6,Modoc,41.38222,-120.21889,Epilobium,Epilobium anagallidifolium,Onagraceae
+UCR35007,Parkinsonia aculeata,1974,6,28,Riverside,33.78333,-116.95,Parkinsonia,Parkinsonia aculeata,Fabaceae
+UCR34685,Rumex salicifolius,1981,8,6,Modoc,41.38222,-120.21889,Rumex,Rumex salicifolius,Polygonaceae
+UCR35004,Frasera parryi,1972,6,26,Riverside,33.63333,-116.65,Frasera,Frasera parryi,Gentianaceae
+UC1753615,Lycopodium clavatum,2000,6,23,Sonoma,38.7201,-123.4537,Lycopodium,Lycopodium clavatum,Lycopodiaceae
+UC1753617,Chamaesyce ocellata subsp. rattanii,1993,10,17,Tehama,40.024,-122.5158,Chamaesyce,Euphorbia ocellata,Euphorbiaceae
+UCR34689,Penstemon gracilentus,1981,8,6,Modoc,41.38222,-120.21889,Penstemon,Penstemon gracilentus,Plantaginaceae
+UCR35008,Psorothamnus arborescens var. simplicifolius,1968,6,3,Riverside,33.70833,-116.86667,Psorothamnus,Psorothamnus arborescens,Fabaceae
+UC1753616,Senecio jacobaea,1965,7,20,Mendocino,39.448,-123.81318,Senecio,Jacobaea vulgaris,Asteraceae
+UCR34688,Phleum alpinum,1981,8,6,Modoc,41.38222,-120.21889,Phleum,Phleum alpinum,Poaceae
+UC1070095,Rafinesquia neomexicana,1934,3,28,Kern,35.322323,-117.978745,Rafinesquia,Rafinesquia neomexicana,Asteraceae
+UC1129810,Medicago sativa,1936,7,9,San Luis Obispo,34.9515,-119.6291,Medicago,Medicago sativa,Fabaceae
+UC217990,Cryptantha pterocarya,1922,5,14,San Bernardino,35.3964,-117.2472,Cryptantha,Cryptantha pterocarya,Boraginaceae
+UC648679,Ericameria parryi var. monocephala,1937,8,5,Mono,37.9713,-119.2978,Ericameria,Ericameria parryi,Asteraceae
+UC768825,Mimulus nasutus,1935,3,15,Stanislaus,37.70785,-120.85355,Mimulus,Mimulus nasutus,Phrymaceae
+UCR215532,Ribes roezlii,2009,5,21,San Bernardino,34.16247,-116.91636,Ribes,Ribes roezlii,Grossulariaceae
+UC1070094,Rafinesquia neomexicana,1937,3,23,Riverside,33.8251,-116.3448,Rafinesquia,Rafinesquia neomexicana,Asteraceae
+UC1129811,Medicago sativa,1936,6,4,Calaveras,38.165653,-120.67268,Medicago,Medicago sativa,Fabaceae
+UC1302410,Orobanche cooperi,1964,4,10,Imperial,32.9947,-115.05711,Orobanche,Orobanche cooperi,Orobanchaceae
+UC1727855,Youngia japonica,1995,3,20,Riverside,33.95,-117.333336,Youngia,Youngia japonica,Asteraceae
+UC217991,Linanthus dichotomus,1922,5,15,San Bernardino,35.3966,-117.2466,Linanthus,Linanthus dichotomus,Polemoniaceae
+UCR215533,Ceanothus cordulatus,2009,5,21,San Bernardino,34.16247,-116.91636,Ceanothus,Ceanothus cordulatus,Rhamnaceae
+UC1070097,Raillardella argentea,1936,9,8,Alpine,38.3464424,-119.6586,Raillardella,Raillardella argentea,Asteraceae
+UC1129812,Medicago sativa,1935,9,25,Tuolumne,37.966,-119.6888,Medicago,Medicago sativa,Fabaceae
+UC1302413,Fagonia laevis,1964,4,11,Imperial,32.84206,-114.753586,Fagonia,Fagonia laevis,Zygophyllaceae
+UC1727856,Layia glandulosa,1971,5,1,Ventura,34.6,-119.31778,Layia,Layia glandulosa,Asteraceae
+UC217992,Encelia actoni,1922,5,14,San Bernardino,35.4347,-117.2327,Encelia,Encelia actonii,Asteraceae
+UC768827,Mimulus microphyllus,1939,4,18,Sonoma,38.4075,-122.94722,Mimulus,Mimulus microphyllus,Phrymaceae
+UCR172208,Bowlesia incana,2006,5,2,Riverside,33.58556,-117.11806,Bowlesia,Bowlesia incana,Apiaceae
+UCR215530,Tauschia parishii,2009,5,19,San Bernardino,34.20853,-116.88997,Tauschia,Tauschia parishii,Apiaceae
+UC1070096,Raillardella argentea,1936,8,19,Alpine,38.3582986,-119.6643494,Raillardella,Raillardella argentea,Asteraceae
+UC1129813,Melilotus albus,1935,6,13,Ventura,34.5187,-118.753,Melilotus,Melilotus albus,Fabaceae
+UC217993,Tropidocarpum gracile,1922,5,14,San Bernardino,35.3964,-117.2472,Tropidocarpum,Tropidocarpum gracile,Brassicaceae
+UC768826,Veronica wormskjoldii,1939,7,26,Tuolumne,38.245483,-119.802895,Veronica,Veronica wormskjoldii,Plantaginaceae
+UCR172209,Lasthenia gracilis,2006,5,3,Riverside,33.59333,-117.12722,Lasthenia,Lasthenia gracilis,Asteraceae
+UCR215531,Quercus wislizeni var. frutescens,2009,5,19,San Bernardino,34.20853,-116.88997,Quercus,Quercus wislizeni,Fagaceae
+UC1129814,Melilotus albus,1936,7,9,San Luis Obispo,34.9515,-119.6291,Melilotus,Melilotus albus,Fabaceae
+UC217994,Tetrapteron palmeri,1922,5,14,San Bernardino,35.3964,-117.2472,Tetrapteron,Tetrapteron palmeri,
+UC768821,Mimulus microphyllus,1937,5,19,Mariposa,37.7375,-120.2328,Mimulus,Mimulus microphyllus,Phrymaceae
+UCR215536,Festuca californica var. parishii,2009,5,21,San Bernardino,34.16247,-116.91636,Festuca,Festuca californica,Poaceae
+UC1302414,Lycium andersonii,1964,4,11,Imperial,32.84206,-114.753586,Lycium,Lycium andersonii,Solanaceae
+UC217995,Purshia tridentata var. glandulosa,1922,5,20,Riverside,33.6175,-116.6235,Purshia,Purshia glandulosa,Rosaceae
+UC768820,Mimulus nasutus,1936,3,17,Stanislaus,37.66361,-120.4625,Mimulus,Mimulus nasutus,Phrymaceae
+UCR215537,Stipa lemmonii,2009,5,21,San Bernardino,34.16247,-116.91636,Stipa,Stipa lemmonii,Poaceae
+UC1129816,Melilotus albus,1935,2,9,Santa Barbara,34.4029,-119.5392,Melilotus,Melilotus albus,Fabaceae
+UC142151,Xerophyllum tenax,1903,9,6,Siskiyou,41.31999,-122.47674,Xerophyllum,Xerophyllum tenax,Melanthiaceae
+UC217996,Amelanchier utahensis,1922,5,20,Riverside,33.6175,-116.6235,Amelanchier,Amelanchier utahensis,Rosaceae
+UC768823,Mimulus microphyllus,1937,4,23,San Joaquin,37.944424,-121.09556,Mimulus,Mimulus microphyllus,Phrymaceae
+UCR215534,Leptosiphon nuttallii,2009,5,21,San Bernardino,34.16247,-116.91636,Leptosiphon,Leptosiphon nuttallii,Polemoniaceae
+UC1070092,Rafinesquia californica,1937,5,4,San Luis Obispo,35.266638,-119.960472,Rafinesquia,Rafinesquia californica,Asteraceae
+UC1129817,Melilotus indicus,1934,3,27,Ventura,34.4608,-119.2946,Melilotus,Melilotus indicus,Fabaceae
+UC1302416,Ephedra trifurca,1964,4,10,Imperial,32.73247,-114.901146,Ephedra,Ephedra trifurca,Ephedraceae
+UC217997,Calochortus kennedyi,1922,5,14,San Bernardino,35.4347,-117.2327,Calochortus,Calochortus kennedyi,Liliaceae
+UC768822,Mimulus microphyllus,1937,5,4,Merced,37.44802,-120.50294,Mimulus,Mimulus microphyllus,Phrymaceae
+UCR215535,Silene lemmonii,2009,5,21,San Bernardino,34.16247,-116.91636,Silene,Silene lemmonii,Caryophyllaceae
+UC1129818,Melilotus albus,1936,3,13,San Luis Obispo,35.1007,-120.6195,Melilotus,Melilotus albus,Fabaceae
+UC217998,Ericameria linearifolia,1922,5,14,San Bernardino,35.3964,-117.2472,Ericameria,Ericameria linearifolia,Asteraceae
+UC648671,Eucephalus breweri,1930,8,24,Mono,37.9517,-119.274,Eucephalus,Aster breweri,Asteraceae
+UCR172202,Cotula coronopifolia,2006,5,2,Riverside,33.57,-117.11833,Cotula,Cotula coronopifolia,Asteraceae
+UC217999,Astragalus coccineus,1922,5,15,San Bernardino,35.3966,-117.2466,Astragalus,Astragalus coccineus,Fabaceae
+UC648670,Arctostaphylos nevadensis,1937,7,27,Mono,37.9655,-119.2862,Arctostaphylos,Arctostaphylos nevadensis,Ericaceae
+UCR172203,Phacelia distans,2006,5,2,Riverside,33.57,-117.11833,Phacelia,Phacelia distans,Hydrophyllaceae
+UC648673,Carex phaeocephala,1937,8,7,Mono,37.9448,-119.2777,Carex,Carex phaeocephala,Cyperaceae
+UCR172200,Festuca microstachys,2006,5,2,Riverside,33.57,-117.11833,Festuca,Vulpia microstachys,Poaceae
+UC648672,Boechera lemmonii,1937,8,7,Mono,37.9448,-119.2777,Boechera,Boechera lemmonii,Brassicaceae
+UCR172201,Plagiobothrys canescens,2006,5,2,Riverside,33.57,-117.11833,Plagiobothrys,Plagiobothrys canescens,Boraginaceae
+UCR215539,Lathyrus vestitus var. alefeldii,2009,5,21,San Bernardino,34.16247,-116.91636,Lathyrus,Lathyrus laetiflorus,Fabaceae
+UC768829,Veronica peregrina subsp. xalapensis,1936,4,28,Fresno,36.82525,-119.61171,Veronica,Veronica peregrina,Plantaginaceae
+UC1070098,Raillardella argentea,1934,8,22,El Dorado,38.6335,-120.176216,Raillardella,Raillardella argentea,Asteraceae
+UC648674,Draba lemmonii var. lemmonii,1937,8,7,Mono,37.9448,-119.2777,Draba,Draba lemmonii,Brassicaceae
+UC768828,Veronica anagallis-aquatica,1934,9,15,Stanislaus,37.63917,-120.99583,Veronica,Veronica anagallis-aquatica,Plantaginaceae
+UCR172207,Stylocline gnaphaloides,2006,5,2,Riverside,33.57,-117.11833,Stylocline,Stylocline gnaphaloides,Asteraceae
+UC648677,Danthonia unispicata,1937,8,2,Mono,37.9613,-119.2858,Danthonia,Danthonia unispicata,Poaceae
+UCR172204,Plagiobothrys collinus,2006,5,2,Riverside,33.57,-117.11833,Plagiobothrys,Plagiobothrys collinus,Boraginaceae
+UCR172205,Trifolium ciliolatum,2006,5,2,Riverside,33.57,-117.11833,Trifolium,Trifolium ciliolatum,Fabaceae
+JEPS88013,Viola sororia subsp. affinis,1990,6,6,Modoc,41.6519,-120.3208,Viola,Viola sororia,Violaceae
+UCR214856,Linanthus floribundus,2010,5,29,San Bernardino,34.16428,-116.91103,Linanthus,Linanthus floribundus,Polemoniaceae
+UCR92395,Brickellia californica,1927,10,11,Riverside,33.98333,-117.3,Brickellia,Brickellia californica,Asteraceae
