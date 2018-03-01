@@ -9,28 +9,35 @@
 
 library(shiny)
 library(leaflet)
+library(tidyverse)
+
+family_list <- unique(CCH_subset$family)
+family_list_sort <- sort(family_list)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
-   
-   # Application title
-      titlePanel("Herbarium Data of North America"),
-      
-      # Generate a row with a sidebar
-      sidebarLayout(      
-        
-        # Define the sidebar with one input
-        sidebarPanel(
-          selectInput("family", "Plant Families:", choices=colnames(CCH_subset)),
-          
-          hr(),
-          helpText("Herbarium Data Source"))),
-      
   
-        mainPanel(
-          leafletOutput("CCH_map"))
-        
-      )
+  # Application title
+  titlePanel("Herbarium Data of North America"),
+  
+  # Generate a row with a sidebar
+  sidebarLayout(      
+    
+    # Define the sidebar with inputs
+    sidebarPanel(
+      #To select Family Name
+      selectInput("family", "Plant Families:", choices = family_list_sort),
+      
+      #To select collection years
+      sliderInput("slider2", label = ("Collection Years"), min = 1877, 
+                  max = 2010, value = c(1900, 1920)),
+      #To create header text
+      hr(),
+      helpText("Herbarium Data Source: California Consortium of Herbaria")),
+    
+    mainPanel(leafletOutput("CCH_map")))
+  
+)
 
 
 # Define server logic required to draw a histogram
@@ -48,4 +55,3 @@ server <- function(input, output, session) {
 
 # Run the application 
 shinyApp(ui = ui, server = server)
-
