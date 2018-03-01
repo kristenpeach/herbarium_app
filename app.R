@@ -28,14 +28,13 @@ ui <- fluidPage(
       #To select Family Name
       selectInput("family", "Plant Families:", choices = family_list_sort),
       
-      #To select collection years
-      sliderInput("slider2", label = ("Collection Years"), min = 1877, 
-                  max = 2010, value = c(1900, 1920)),
+      
       #To create header text
       hr(),
       helpText("Herbarium Data Source: California Consortium of Herbaria")),
     
-    mainPanel(leafletOutput("CCH_map")))
+    mainPanel(leafletOutput("CCH_map"),
+              plotOutput("CCH_graph")))
   
 )
 
@@ -47,10 +46,31 @@ server <- function(input, output, session) {
   
   
   output$CCH_map <- renderLeaflet({
+    CCH_subset_map <- CCH_subset %>% 
+      filter(family == input$family)
+      
+    
     leaflet() %>%
       addTiles() %>% 
-      addMarkers(data = CCH_subset, lat = ~ Latitude, lng = ~ Longitude)
+      addMarkers(data = CCH_subset_map, lat = ~ Latitude, lng = ~ Longitude)
   })
+  
+  output$CCH_graph <- renderPlot({
+    
+    CCH_subset_x <- CCH_subset %>% 
+      filter(family == input$family) %>% 
+      count(species) %>% 
+      arrange(n) %>% 
+      tail(10)
+    
+    
+    ggplot(CCH_subset_x, aes(x = species, y = n)) + 
+      geom_col(aes(fill = species)) + 
+      xlab("Top 10 Species Collected") +
+      ylab("Freqency of Collection") +
+      theme(axis.text.x = element_text(angle = 60, hjust = 1))
+    }
+  )
 }
 
 # Run the application 

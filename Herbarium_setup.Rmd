@@ -24,7 +24,7 @@ library(leaflet)
 
 #Load Subset of data
 library(readr)
-CCH_subset <- read_csv("~/Desktop/ESM 244 W18/Final Project App ESM 244 Herbarium App/Herbarium Data App ESM 244/CCH_subset.csv")
+CCH_subset <- read_csv("CCH_subset.csv")
 
 
 ```
@@ -84,7 +84,19 @@ family_list
 ```
 
 
+Filtering the CCH_subset data to return a plot counts of showing species
+```{r}
 
+
+#This creates a df of the top ten frequency
+CCH_subset_plot <- CCH_subset %>% filter(family == "Asteraceae") %>% count(species) %>% arrange(n) %>% tail(10)
+
+ggplot(CCH_subset_plot, aes(x = species, y = n)) + 
+  geom_col() +
+  xlab = "Top 10 Species Collected" +
+  ylab = "Frequency of Collection"
+
+```
 
 
 
